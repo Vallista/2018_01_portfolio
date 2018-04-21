@@ -1,1 +1,1 @@
-document.getElementById('sibal').innerText = 'asdasdas';
+document.getElementById('sibal').innerHTML = 'asdf';
